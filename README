@@ -1,0 +1,10 @@
+This is a command line version of the game Farkle
+
+Setup:
+pipenv install
+pipenv shell
+
+Play:
+python play.py
+
+Have fun!!
